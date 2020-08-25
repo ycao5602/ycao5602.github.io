@@ -2,7 +2,7 @@
 layout: none
 ---
 
--> ## Symbiotic Adversarial Learning for Attribute-based Person Search <-
+<center> <h2>Symbiotic Adversarial Learning for Attribute-based Person Search</h1> </center>
 
 [[paper]](https://arxiv.org/abs/2007.09609) [[code]](https://github.com/ycao5602/SAL) [video]
 
