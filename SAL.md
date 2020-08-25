@@ -3,9 +3,9 @@ layout: none
 ---
 ## [Home](index.md)
 
-<center> <h2> Symbiotic Adversarial Learning for Attribute-based Person Search</h2> </center>
+<center> <h2> Symbiotic Adversarial Learning for Attribute-based Person Search </h2> </center>
 
-<center> <h3> Yu-Tong Cao*, Jingya Wang*, Dacheng Tao</h2> </center>
+<center> <h3> Yu-Tong Cao*, Jingya Wang*, Dacheng Tao </h3> </center>
 
 <center> <h3> UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering,
 The University of Sydney </h3> <center>
