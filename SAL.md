@@ -19,10 +19,8 @@ The University of Sydney </h3> <center>
 </center>
 
 
-
-
 <p align="center">
-  <img src="imgs/problem.png" alt="problem setting" width="600">
+  <img src="imgs/problem.png" alt="problem setting" width="900">
 </p>
 
 
