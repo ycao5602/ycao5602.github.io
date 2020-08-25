@@ -13,18 +13,18 @@ The University of Sydney </h3> <center>
 <center> <h3> <i> *Equal contribution </i> </h3> </center>
 
 <center>
-<a href="https://arxiv.org/abs/2007.09609">[paper]</a> 
-<a href="imgs/long_slides.pdf">[slides]</a> 
-<a href="https://github.com/ycao5602/SAL">[code]</a>
+    <a href="https://arxiv.org/abs/2007.09609">[paper]</a> 
+    <a href="imgs/long_slides.pdf">[slides]</a> 
+    <a href="https://github.com/ycao5602/SAL">[code]</a>
 </center>
 
-## Problem setting
+<h2> <i> Problem setting </i> </h2> 
 
 <p align="center">
   <img src="imgs/problem.png" alt="problem setting" width="600">
 </p>
 
-## Proposed model
+<h2> <i> Proposed model </i> </h2> 
 
 <p align="center">
   <img src="imgs/model.png" alt="problem setting" width="600">
