@@ -18,10 +18,13 @@ The University of Sydney </h3> <center>
 <a href="https://github.com/ycao5602/SAL">[code]</a>
 </center>
 
-
+## Problem setting
 <p align="center">
   <img src="imgs/problem.png" alt="problem setting" width="600">
 </p>
 
-
+## Proposed model
+<p align="center">
+  <img src="imgs/model.png" alt="problem setting" width="600">
+</p>
 
