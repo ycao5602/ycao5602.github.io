@@ -8,7 +8,7 @@ layout: none
 <center> <h3> Yu-Tong Cao*, Jingya Wang*, Dacheng Tao </h3> </center>
 
 <center> <h3> UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering,
-The University of Sydney </h3> <center>
+The University of Sydney </h3> </center>
 
 <center> <h3> <i> *Equal contribution </i> </h3> </center>
 
@@ -18,13 +18,13 @@ The University of Sydney </h3> <center>
     <a href="https://github.com/ycao5602/SAL">[code]</a>
 </center>
 
-<h2> <i> Problem setting </i> </h2> 
+## Problem setting 
 
 <p align="center">
   <img src="imgs/problem.png" alt="problem setting" width="600">
 </p>
 
-<h2> <i> Proposed model </i> </h2> 
+## Proposed model 
 
 <p align="center">
   <img src="imgs/model.png" alt="proposed model" width="600">
