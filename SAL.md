@@ -27,6 +27,6 @@ The University of Sydney </h3> <center>
 <h2> <i> Proposed model </i> </h2> 
 
 <p align="center">
-  <img src="imgs/model.png" alt="problem setting" width="600">
+  <img src="imgs/model.png" alt="proposed model" width="600">
 </p>
 
