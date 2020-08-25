@@ -10,7 +10,7 @@ layout: none
 <center> <h3> UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering,
 The University of Sydney </h3> <center>
 
-<center> <h4> <i> *Equal contribution </i> </h4> </center>
+<center> <h3> <i> *Equal contribution </i> </h3> </center>
 
 <center>
 <a href="https://arxiv.org/abs/2007.09609">[paper]</a> 
